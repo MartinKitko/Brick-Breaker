@@ -1,0 +1,7 @@
+6 10
+    xxxxxx
+xxxbbxxxxx
+x  bggbbgb
+x  xbgggbb
+xxxxbbbbxx
+xxxxxxxxxx

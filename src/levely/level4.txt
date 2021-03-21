@@ -1,0 +1,7 @@
+6 10
+x bxxxxb x
+xxbxxxxbxx
+xxb    bxx
+xxb    bxx
+xxbxxxxbxx
+x bxxxxb x
