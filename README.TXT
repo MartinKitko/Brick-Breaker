@@ -15,5 +15,5 @@ Verzia/dátum: 20. 12. 2020
 
 Ovládanie hry:
 - ENTER pre spustenie hry
-- pohyb plošiny pomcou šípok na klávesnici
+- pohyb plošiny pomocou šípok na klávesnici
 - "p" pre zastavenie a pokračovanie v hre
